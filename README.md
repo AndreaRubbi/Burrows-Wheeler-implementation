@@ -1,4 +1,4 @@
-# Burrows-Wheeler-implementation
+# Burrows-Wheeler-implementation by: Andrea Rubbi
 Python implementation of the Burrow Wheeler Algorithm with a GUI
 
 ## How to use it:
